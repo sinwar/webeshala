@@ -12,6 +12,8 @@
 canvas{
     background-color: white;
     position: absolute;
+    width: 100%;
+    height: auto;
 }
 
 body,
